@@ -4,8 +4,6 @@
 
 **Founding text · Version 0.1 · November 25, 2026**
 
-**Originated by David Murray** · Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-
 ## Preamble
 
 Humanity has become extraordinarily good at producing information and comparatively poor at exhausting its implications.
