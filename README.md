@@ -2,7 +2,7 @@
 
 *The systematic excavation of what the world could already know.*
 
-[`LIA.md`](LIA.md) is the canonical, version-controlled founding text of Latent Information Archaeology, a proposed discipline. Originated by David Murray.
+[`LIA.md`](LIA.md) is the canonical, version-controlled text of Latent Information Archaeology, a proposed discipline.
 
 The discipline is not owned by anyone. Share, adapt, fork, challenge and extend it, commercially or otherwise, under [CC BY 4.0](LICENSE). Please keep attribution to its origin and a visible history of revisions.
 
